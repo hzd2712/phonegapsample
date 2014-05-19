@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns       = "http://www.w3.org/ns/widgets"
-        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        xmlns:gap   = "http://phonegap.com/ns/3.3.0"
         id          = "com.zexi.employeedirectory"
         versionCode = "10"
         version     = "1.1.0">
@@ -11,16 +11,16 @@
         A simple employee directory application
     </description>
  
-    <author href="http://coenraets.org" email="ccoenraets@gmail.com">
+    <author href="" email="hzd2712@gmail.com">
         Zexi
     </author>
  
-    <feature name="http://api.phonegap.com/1.0/camera"/>
-    <feature name="http://api.phonegap.com/1.0/contacts"/>
-    <feature name="http://api.phonegap.com/1.0/file"/>
-    <feature name="http://api.phonegap.com/1.0/geolocation"/>
-    <feature name="http://api.phonegap.com/1.0/media"/>
-    <feature name="http://api.phonegap.com/1.0/network"/>
-    <feature name="http://api.phonegap.com/1.0/notification"/>
+    <feature name="http://api.phonegap.com/3.3.0/camera"/>
+    <feature name="http://api.phonegap.com/3.3.0/contacts"/>
+    <feature name="http://api.phonegap.com/3.3.0/file"/>
+    <feature name="http://api.phonegap.com/3.3.0/geolocation"/>
+    <feature name="http://api.phonegap.com/3.3.0/media"/>
+    <feature name="http://api.phonegap.com/3.3.0/network"/>
+    <feature name="http://api.phonegap.com/3.3.0/notification"/>
  
 </widget>
